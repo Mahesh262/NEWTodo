@@ -25,6 +25,7 @@ const Bcompnt = (props) => {
                                 </td>
                             </tr>
                         ))
+                        
                     ) :
                         (
                             <tr>
